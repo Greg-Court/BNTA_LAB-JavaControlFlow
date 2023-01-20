@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class WhatShouldIWear {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Welcome to the Dressy McWeatherman, your personal wardrobe assistant.");
+        System.out.println("Welcome to Dressy McWeatherman, your personal wardrobe assistant.");
 
         while (true) {
             System.out.println("");
